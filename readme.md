@@ -1,6 +1,6 @@
 # Guidelines TypeScript
 
-Statut : Recommendation (REC)
+Statut : Recommendation (REC)
 
 Cette présente convention rassemble les bonnes pratiques TypeScript, que nous souhaitons retrouver dans vos projets. Elle a pour but d’évoluer dans le temps et de s’adapter à chaque nouveau projet.
 
