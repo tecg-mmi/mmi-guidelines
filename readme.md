@@ -1,10 +1,12 @@
 # Guidelines TypeScript
 
-Statut : Recommendation (REC)
-
 Cette présente convention rassemble les bonnes pratiques TypeScript, que nous souhaitons retrouver dans vos projets. Elle a pour but d’évoluer dans le temps et de s’adapter à chaque nouveau projet.
 
-⚠️Notez que ceci s’inscrit dans la suite logique des [recommandations JavaScript](https://github.com/hepl-dcc/dcc-guidelines), qui sont une étape préliminaire à ceci.
+⚠️ Notez que ceci s’inscrit dans la suite logique des [recommandations JavaScript](https://github.com/hepl-dcc/dcc-guidelines), qui sont une étape préliminaire à ceci.
+
+♿️ Avant de passer aux aspects techniques, nous rappelons l’*importance* et la *nécessité* de fournir, dans tous les cas, un contenu alternatif dès lors que vous proposez un contenu riche, avec `<canvas>` par exemple. Il est attendu d'être en clair avec les recommandations officielles pour rendre le canevas plus accessible.
+
+
 
 ## Nommage
 
